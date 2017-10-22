@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+.post-author {
+    font-style: italic;
+}
+
+#user-account {
+    float: right;
+}
+
+nav ul li {
+    margin-right: 15px;
+}
